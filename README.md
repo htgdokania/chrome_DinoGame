@@ -1,4 +1,4 @@
-# chrome_DinoGame
+# chrome_DinoGame T-Rex Run
 This code is used to automate the game  which pops up when you have no internet in chrome, using an arduino and python
 # 1. Arduino_code
 First connect a LDR along with a resister(10K) in series across  +5v and Gnd
